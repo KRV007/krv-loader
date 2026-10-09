@@ -1,2 +1,2 @@
-2.2
-https://github.com/KRV007/krv-loader/releases/download/v2.2/KRVInjector.exe
+2.3
+https://github.com/KRV007/krv-loader/releases/download/v2.3/KRVInjector.exe
